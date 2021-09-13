@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My Birthday Party",
+      "body": "This is my 20th birthday",
+      "author": "Kartik",
+      "id": 1
+    },
+    {
+      "title": "My first JEE exam",
+      "body": "This was my first JEE exam and it was very tough",
+      "author": "Kartik",
+      "id": 2
+    },
+    {
+      "title": "My first 12th exam",
+      "body": "This was my first 12th exam",
+      "author": "kartik",
+      "id": 3
+    }
+  ]
+}
